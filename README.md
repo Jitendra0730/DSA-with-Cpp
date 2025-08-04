@@ -51,6 +51,6 @@ I update this repo daily with new problems I solve.
 ## 📬 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/jitendrachoudhary30)  
-- 📧 [Email] jitendra72003@gmail.com
+- 📧 jitendra72003@gmail.com
 
 > 🧠 "DSA is not just about solving problems, it's about solving them better and faster — one day at a time."
