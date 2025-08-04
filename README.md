@@ -1,4 +1,4 @@
-# 📚 DSA with C++ – Apna College Practice
+# 📚 DSA with C++ 
 
 Welcome to my **Data Structures & Algorithms (DSA)** practice repository! This repo contains my daily practice solutions in **C++**, based on the Apna College DSA course. I’ve structured everything topic-wise to keep the code clean, organized, and easy to track over time.
 
