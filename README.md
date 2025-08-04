@@ -6,13 +6,11 @@ Welcome to my **Data Structures & Algorithms (DSA)** practice repository! This r
 
 DSA with C++  
 ├── Data Structures/  
-    ├── Array/  
-    ├── String/  
-    ├── Vector/
-    ├── Recursion/  
-    └── Sorting/ 
+│   ├── Array/  
+│   ├── String/  
+│   └── Vector/  
 ├── Functions/  
-└── Patterns/  
+└── Patterns/ 
 └── ...
 
 Each folder includes multiple C++ files solving specific problems within that topic.
