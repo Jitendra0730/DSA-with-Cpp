@@ -8,7 +8,7 @@ DSA with C++
 ├── Data Structures/  
 │   ├── Array/  
 │   ├── String/  
-│   └── Vector/ 
+│   └── Vector/  
 ├── Functions/  
 ├── Patterns/  
 ├── Pointers/  
