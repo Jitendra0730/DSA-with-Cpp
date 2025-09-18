@@ -10,8 +10,8 @@ DSA with C++
 │   ├── String/  
 │   └── Vector/ 
 ├── Functions/  
-├── Patterns/ 
-├── Pointers/
+├── Patterns/  
+├── Pointers/  
 ├── Recursions/
 └── ...
 
