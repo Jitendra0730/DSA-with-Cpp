@@ -8,9 +8,11 @@ DSA with C++
 ├── Data Structures/  
 │   ├── Array/  
 │   ├── String/  
-│   └── Vector/  
+│   └── Vector/ 
 ├── Functions/  
-└── Patterns/ 
+├── Patterns/ 
+├── Pointers/
+├── Recursions/
 └── ...
 
 Each folder includes multiple C++ files solving specific problems within that topic.
@@ -25,10 +27,11 @@ Each folder includes multiple C++ files solving specific problems within that to
 ## 🚀 Progress Tracker
 
 - [x] Arrays  
-- [x] Strings  
-- [x] Vectors  
+- [ ] Strings  
+- [ ] Vectors  
 - [x] Functions  
-- [ ] Patterns  
+- [x] Patterns
+- [x] Pointers  
 - [ ] Recursion  
 - [ ] Sorting  
 - [ ] Searching  
